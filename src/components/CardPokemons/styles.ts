@@ -450,6 +450,10 @@ export const CardPokemonDetailsContainer = styled.div<ICardPokemonContainer>`
 
 export const CardPokemonDetailsTitleContainer = styled.div`
   display: flex;
+
+  h3 {
+    cursor: pointer;
+  }
 `;
 
 export const CardPokemonAbilitiesContainer = styled.div`

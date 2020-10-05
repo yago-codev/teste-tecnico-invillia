@@ -121,7 +121,7 @@ export const Pokemons: React.FC = () => {
 
   const formTitles = [
     {
-      name: 'Apenas para batalha',
+      name: 'Battle only',
     },
   ];
 

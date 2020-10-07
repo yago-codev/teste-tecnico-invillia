@@ -15,7 +15,3 @@ Este projeto foi desenvolvido de acordo com os requisitos técnicos pertinentes 
 - OBS: O projeto foi desenvolvido utilizando a versão v12.18.4 do Node. Caso hajam problemas durante a instalação das dependências, experimente utilizar um gerenciador de versões como o [NVM](https://www.treinaweb.com.br/blog/instalando-e-gerenciando-varias-versoes-do-node-js-com-nvm/);
 
 ---
-
-#### ESSA É A EMPRESA DOS MEUS SONHOS
-
-Muito obrigado pela atenção
